@@ -1,3 +1,8 @@
+# AI-Driven English Listening & Cognitive Trainer
+
+## Live Application
+[点击直接访问云端系统](https://english-trainer-app-6dhhrp8w2d968xsfyg7zaw.streamlit.app/)
+
 ## Product Philosophy
 
 本产品是一款深度融合第二语言习得（SLA）理论与前沿生成式 AI（Generative AI）的跨学科英语精听与认知训练系统。有别于市面上碎片化的背单词或被动听力软件，本系统以**"主动产出推动输入内化"**为核心理念，为学习者打造高动态、沉浸式的语言交际环境。
